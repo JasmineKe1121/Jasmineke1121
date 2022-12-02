@@ -1,5 +1,5 @@
 ### 😊 Hi, I'm Jasmine! 
-I'm a programming language beginner. I'm currently learning JavaScript. I hope I could be a front-end devoloper in the future. 
+I'm a programming language beginner. I'm currently learning JavaScript. I hope I could be a front-end engineer in the future. 
 
 ### 🧠 Issues of concern
 Technology, photography, Phycology, Mindfulness, healthcare issues, all new fun topics...etc.
