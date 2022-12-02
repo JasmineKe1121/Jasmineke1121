@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Jasmine! 
+### 😊 Hi, I'm Jasmine! 
 I'm a programming language beginner. I'm currently learning JavaScript. I hope I could be a front-end devoloper in the future. 
 
 ### 🧠 Issues of concern
